@@ -1,0 +1,26 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+	cout << "3.) \n";
+	cout << "Student Code : 62-060216-2009-4\n";
+	cout << "Student Name : Thaptana Juntree\n";
+	cout << "    Division : Information Technology\n";
+	cout << "        year : 1\n";
+	cout << "        Room : RA\n";
+	cout << "         Sex : Male\n";
+	cout << "         Age : 18\n";
+	cout << endl;
+	cout << "______________________________________________________\n";
+	cout << endl;
+	cout << "4.) \n";
+	cout << "   #   \n";
+	cout << "  # #  \n";
+	cout << " #   # \n";
+	cout << "#     #\n";
+	cout << "#######\n";
+	cout << "#     #\n";
+	cout << endl;
+	cout << "______________________________________________________\n";
+	return(0);
+}
